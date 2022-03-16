@@ -43,6 +43,6 @@ user@example:~./crawlbot.sh google.com
  * [Sarath G](https://github.com/secretguard)
  
 ## Version
-**Current  version  is  1.0** 
+**Current  version  is  1.0**       
  
 
